@@ -25,7 +25,7 @@ spec:
         app: demo-app
     spec:
       containers:
-      - image: ghcr.io/rakhmanov/demo-app:82a8c24a27e36502bcecf3b765228e2dd6e037e3
+      - image: ghcr.io/rakhmanov/demo-app:7143b5c8f88c305229a79f1508b597addb940923
         name: demo-app
         ports:
         - containerPort: 8080
