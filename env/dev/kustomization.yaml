@@ -5,5 +5,7 @@ resources:
 - ../../base
 
 images:
+- name: ghcr.io/Rakhmanov/demo-app
+  newTag: 7733c824b28b7463742399e5051ffbed45e977ef
 - name: ghcr.io/rakhmanov/demo-app
   newTag: latest
